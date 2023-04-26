@@ -7,7 +7,7 @@ Consumindo API com JavaScrip.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 HTML + CSS + JavaScript
 
 ## ✒️ Autor
